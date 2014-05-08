@@ -1,0 +1,2 @@
+This should contain an blabla.xyz file content
+from ArmA 2 OA.
